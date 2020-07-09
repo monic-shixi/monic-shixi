@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **monic-shixi/monic-shixi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+坚持不下去的时候想想当时为何要坚持 ～。～
+
+![](https://visitor-badge.glitch.me/badge?page_id=monic-shixi.monic-shixi)
