@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 坚持不下去的时候想想当时为何要坚持 ～。～
 
-![](https://visitor-badge.glitch.me/badge?page_id=monic-shixi.monic-shixi)
+<h3 align="center">A passionate frontend developer from China</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monic-shixi" alt="monic-shixi" /> </p>
+
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monic-shixi&show_icons=true" alt="monic-shixi" /> </p>
+
+
+Thanks [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
